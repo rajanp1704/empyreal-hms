@@ -36,8 +36,8 @@ The entire stack is managed via a single **unified HMS Dockerfile** at the root,
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/your-username/hospital.git
-   cd hospital
+   git clone https://github.com/rajanp1704/empyreal-hms.git
+   cd empyreal-hms
    ```
 
 2. **Configure Environment Variables**:
